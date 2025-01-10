@@ -24,5 +24,9 @@ hs_err_pid*
 replay_pid*
 
 #maven  folders
-/target/**
-/src/test/java/**
+target/
+src/test/java/
+.classpath
+.settings
+.project
+pom.properties
